@@ -8,7 +8,7 @@ This is free and unencumbered software released into the public domain.
 
 StockRT is a ModuleManager config file which add the possibility to use the RemoteTech mod without the RemoteTech parts.
 
-This config file requires RemoteTech and ModuleManager.
+This config file requires RemoteTech v1.5.1 and ModuleManager v2.5.X.
 
 #### What is it modify on RemoteTech ?
 
