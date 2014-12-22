@@ -1,1 +1,11 @@
-{"NAME":"StockRT","URL":"https://raw.githubusercontent.com/malahx/StockRT/master/GameData/RemoteTech_Stock/StockRT.version","DOWNLOAD":"https://kerbalstuff.com/mod/327","CHANGE_LOG_URL":"https://raw.githubusercontent.com/malahx/StockRT/master/README.md","VERSION":{"MAJOR":1,"MINOR":1,"PATCH":0,"BUILD":0},"KSP_VERSION":{"MAJOR":0,"MINOR":25,"PATCH":0}}
+{
+	"NAME": "StockRT",
+	"URL": "https://raw.githubusercontent.com/malahx/StockRT/master/GameData/RemoteTech_Stock/StockRT.version",
+	"CHANGE_LOG_URL": "https://raw.githubusercontent.com/malahx/StockRT/master/README.md", 
+	"DOWNLOAD": "https://kerbalstuff.com/mod/327"
+	"VERSION":{"MAJOR":1,"MINOR":2,"PATCH":0,"BUILD":0},
+	"KSP_VERSION": "0.90.0",
+	"KSP_VERSION_MIN": "0.25.0",
+	"KSP_VERSION_MAX": "0.90.0"
+}
+
