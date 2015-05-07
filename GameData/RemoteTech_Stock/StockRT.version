@@ -3,9 +3,8 @@
 	"URL": "https://raw.githubusercontent.com/malahx/StockRT/master/GameData/RemoteTech_Stock/StockRT.version",
 	"CHANGE_LOG_URL": "https://raw.githubusercontent.com/malahx/StockRT/master/README.md", 
 	"DOWNLOAD": "https://kerbalstuff.com/mod/327"
-	"VERSION":{"MAJOR":1,"MINOR":2,"PATCH":0,"BUILD":0},
-	"KSP_VERSION": "0.90.0",
+	"VERSION":{"MAJOR":1,"MINOR":2,"PATCH":1,"BUILD":0},
+	"KSP_VERSION": "1.0.2",
 	"KSP_VERSION_MIN": "0.25.0",
-	"KSP_VERSION_MAX": "0.90.0"
+	"KSP_VERSION_MAX": "1.0.2"
 }
-

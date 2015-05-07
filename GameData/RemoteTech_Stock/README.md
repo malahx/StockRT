@@ -1,6 +1,6 @@
 #### StockRT
-#### A plugin for Kerbal Space Program 0.90.0
-#### Copyright 2014 Malah
+#### A plugin for Kerbal Space Program 1.0.2
+#### Copyright 2015 Malah
 
 This is free and unencumbered software released into the public domain.
 
@@ -8,7 +8,7 @@ This is free and unencumbered software released into the public domain.
 
 StockRT is a ModuleManager config file which adds the possibility to use the RemoteTech mod without the additional parts.
 
-This config file requires RemoteTech v1.5.X and ModuleManager v2.5.X.
+This config file requires RemoteTech v1.6.X and ModuleManager v2.6.X.
 
 #### What is it modify on RemoteTech?
 
@@ -25,7 +25,7 @@ On Real Solar System (dish range from Realism Overhaul):
 - Communotron 88-88 can communicate to 25 Tm,
 
 
-PassiveAntenna Node is unlocked in Survivability. For Sounding Rockets the PassiveAntenna Node is unlocked at the start.
+PassiveAntenna Node is unlocked in Survivability.
 
 All RemoteTech parts can't be accessed on the editor. If you don't use them on your savegame, you can delete the parts folder from RemoteTech.
 You can delete these folders:
@@ -34,6 +34,10 @@ You can delete these folders:
 If you don't want to delete these folders, you can Prune them with AutoPruner.
 put StockRT.pnrl into the folder where AutoPruner is.
 and in command line: pruner -prune StockRT.prnl
+
+#### How to install it?
+
+Unzip all files. Put the RemoteTech_Stock folder in your KSP/GameData folder.
 
 #### How to install it?
 
@@ -50,34 +54,41 @@ The AutoPruner script will Prune them.
 
 #### Changelog
 
+v1.21 - 2015.05.07
+* Fix: Delete SPU from all the commands pods, which is useless,
+* Fix: Delete support of Sounding Rorckets, which is now integrate in RemoteTech,
+* Fix: Tweak the MM syntax,
+* Updated to KSP 1.00
+
 v1.20 - 2014.12.22
-- New: Added support of Sounding Rockets,
-- Update to 0.90
+* New: Added support of Sounding Rockets,
+* Update to 0.90
 
 v1.10 - 2014.12.09
-- New: Added StockRT for RSS mod and AutoPruner support.
+* New: Added StockRT for RSS mod and AutoPruner support.
 
 v1.00 - 2014.11.11
-- First release
+* First release
 
 #### Thanks!
 
-- to the Remote Technologies Group for the mod RemoteTech, 
-- to NathanKell for the mod Real Solar System,
-- to NathanKell, RedAV8R and Felger for the mod Realism Overhaul,
-- to Felger for the script AutoPruner,
-- to RoverDude for the mod Sounding Rockets,
-- to all others mods developers which make this game really huge,
-- and to Squad for this awesome game.
+* to the Remote Technologies Group for the mod RemoteTech, 
+* to NathanKell for the mod Real Solar System,
+* to NathanKell, RedAV8R and Felger for the mod Realism Overhaul,
+* to Felger for the script AutoPruner,
+* to RoverDude for the mod Sounding Rockets,
+* to all others mods developers which make this game really huge,
+* and to Squad for this awesome game.
 
 #### Links
 
-- https://github.com/malahx/StockRT 
-- https://kerbalstuff.com/mod/327
-- http://kerbal.curseforge.com/ksp-mods/225520
-- RemoteTech: http://forum.kerbalspaceprogram.com/threads/83305
-- ModuleManager: http://forum.kerbalspaceprogram.com/threads/55219
-- Real Solar System: http://forum.kerbalspaceprogram.com/threads/55145
-- Realism Overhaul: http://forum.kerbalspaceprogram.com/threads/99966
-- Sounding Rockets: http://forum.kerbalspaceprogram.com/threads/102502
-- AutoPruner: http://forum.kerbalspaceprogram.com/threads/101309
+* http://forum.kerbalspaceprogram.com/threads/99869
+* https://github.com/malahx/StockRT 
+* https://kerbalstuff.com/mod/327
+* http://kerbal.curseforge.com/ksp-mods/225520
+* RemoteTech: http://forum.kerbalspaceprogram.com/threads/83305
+* ModuleManager: http://forum.kerbalspaceprogram.com/threads/55219
+* Real Solar System: http://forum.kerbalspaceprogram.com/threads/55145
+* Realism Overhaul: http://forum.kerbalspaceprogram.com/threads/99966
+* Sounding Rockets: http://forum.kerbalspaceprogram.com/threads/102502
+* AutoPruner: http://forum.kerbalspaceprogram.com/threads/101309
