@@ -56,9 +56,9 @@ The AutoPruner script will Prune them.
 
 v1.21 - 2015.05.07
 * Fix: Delete SPU from all the commands pods, which is useless,
-* Fix: Delete support of Sounding Rorckets, which is now integrate in RemoteTech,
+* Fix: Deleted the support of Sounding Rorckets, which is now integrated in RemoteTech,
 * Fix: Tweak the MM syntax,
-* Updated to KSP 1.00
+* Updated to KSP 1.02
 
 v1.20 - 2014.12.22
 * New: Added support of Sounding Rockets,
