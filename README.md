@@ -1,6 +1,6 @@
 #### StockRT
-#### A plugin for Kerbal Space Program 1.0.2
-#### Copyright 2015 Malah
+#### A plugin for Kerbal Space Program
+#### Copyright 2016 Malah
 
 This is free and unencumbered software released into the public domain.
 
@@ -26,7 +26,6 @@ On Real Solar System (dish range from Realism Overhaul):
 * Communotron 16 can communicate to 10 Mm,
 * Comms DTS-M1 can communicate to 400 Mm,
 * Communotron 88-88 can communicate to 25 Tm.
-
 
 PassiveAntenna Node is unlocked in Survivability.
 
@@ -57,6 +56,11 @@ The AutoPruner script will Prune them.
 
 #### Changelog
 
+v1.32 - 2016.04.22
+* New: Added support to the AsteroidDay probcore HECS2,
+* Fix: Tweaked the MM syntax,
+* Update to KSP 1.1
+
 v1.30 - 2015.06.09
 * New: Added support of Outer Planets Mod,
 * New: Added support of Contract Pack: RemoteTech,
@@ -83,6 +87,7 @@ v1.00 - 2014.11.11
 #### Thanks!
 
 * to the Remote Technologies Group for the mod RemoteTech, 
+* to sarbian for the mod ModuleManager,
 * to NathanKell for the mod Real Solar System,
 * to NathanKell, RedAV8R and Felger for the mod Realism Overhaul,
 * to Felger for the script AutoPruner,
@@ -97,7 +102,7 @@ v1.00 - 2014.11.11
 
 * http://forum.kerbalspaceprogram.com/threads/99869
 * https://github.com/malahx/StockRT 
-* https://kerbalstuff.com/mod/327
+* http://spacedock.info/mod/113/StockRT
 * http://kerbal.curseforge.com/ksp-mods/225520
 * RemoteTech: http://forum.kerbalspaceprogram.com/threads/83305
 * ModuleManager: http://forum.kerbalspaceprogram.com/threads/55219
