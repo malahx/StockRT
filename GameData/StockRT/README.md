@@ -8,7 +8,7 @@ This is free and unencumbered software released into the public domain.
 
 StockRT is a ModuleManager config file which adds the possibility to use the RemoteTech mod without the additional parts.
 
-This config file requires RemoteTech v1.6.X and ModuleManager v2.6.X.
+This config file requires RemoteTech v1.7.X and ModuleManager v2.6.X.
 
 #### What is it modify on RemoteTech?
 
@@ -56,6 +56,10 @@ The AutoPruner script will Prune them.
 
 #### Changelog
 
+v1.33 - 2016.07.21
+* New: Added support to the mod Unmanned before Manned (thanks Demian_Scales & Y3mo),
+* Update to KSP 1.1.3
+
 v1.32 - 2016.04.22
 * New: Added support to the AsteroidDay probcore HECS2,
 * Fix: Tweaked the MM syntax,
@@ -89,12 +93,13 @@ v1.00 - 2014.11.11
 * to the Remote Technologies Group for the mod RemoteTech, 
 * to sarbian for the mod ModuleManager,
 * to NathanKell for the mod Real Solar System,
-* to NathanKell, RedAV8R and Felger for the mod Realism Overhaul,
+* to stratochief66, NathanKell, RedAV8R and Felger for the mod Realism Overhaul,
 * to Felger for the script AutoPruner,
 * to RoverDude for the mod Sounding Rockets,
 * to nightingale for the mods Contract Configurator and Contract Pack: RemoteTech,
 * to KaiserSoze for the mod Contract Pack: RemoteTech LITE,
 * to CaptRobau for the mod Outer Planets Mod,
+* to Yemo for the mod Unmanned before Manned,
 * to all others mods developers which make this game really huge,
 * and to Squad for this awesome game.
 
@@ -107,10 +112,11 @@ v1.00 - 2014.11.11
 * RemoteTech: http://forum.kerbalspaceprogram.com/threads/83305
 * ModuleManager: http://forum.kerbalspaceprogram.com/threads/55219
 * Real Solar System: http://forum.kerbalspaceprogram.com/threads/55145
-* Realism Overhaul: http://forum.kerbalspaceprogram.com/threads/99966
+* Realism Overhaul: http://forum.kerbalspaceprogram.com/index.php?/topic/140070-1
 * Sounding Rockets: http://forum.kerbalspaceprogram.com/threads/102502
 * Contract Configurator: http://forum.kerbalspaceprogram.com/threads/101604
 * Contract Pack: RemoteTech: http://forum.kerbalspaceprogram.com/threads/106580
 * Contract Pack: RemoteTech LITE: http://forum.kerbalspaceprogram.com/threads/121953
 * Outer Planets Mod: http://forum.kerbalspaceprogram.com/threads/104280
+* Unmanned before Manned: http://forum.kerbalspaceprogram.com/index.php?/topic/95645-1
 * AutoPruner: http://forum.kerbalspaceprogram.com/threads/101309
